@@ -9,7 +9,7 @@ Instructions to push your code to code.google.com
 
 2. Run 'git init' in the folder that was extracted from the downloaded .zip file, in order to
  initialize local repository.
-
+Gi
 3. Make a local commit.
     $ git add -A
     $ git commit -m “Initial commit”
